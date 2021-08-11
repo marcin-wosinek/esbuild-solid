@@ -2,6 +2,8 @@ import logo from "./logo.svg";
 import styles from "./App.module.css";
 
 function App() {
+  console.log("styles", styles);
+
   return (
     <div class={styles.App}>
       <header class={styles.header}>

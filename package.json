@@ -11,6 +11,7 @@
   "license": "MIT",
   "devDependencies": {
     "esbuild": "^0.12.19",
+    "esbuild-plugin-solid": "^0.3.1",
     "vite": "^2.4.4",
     "vite-plugin-solid": "^2.0.1"
   },
